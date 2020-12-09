@@ -223,6 +223,10 @@
                 {
                     "name": "acceleratorservices",
                     "contextPath": "/acceleratorservices"
+                },
+		{
+                    "name": "yb2bacceleratorstorefront",
+                    "contextPath": "/yb2bacceleratorstorefront"
                 }
             ]
         },
