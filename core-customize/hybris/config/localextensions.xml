@@ -179,6 +179,7 @@
 
 <!-- Sample Extensions -->
     <extension name='spartacussampledataaddon' />
+	<extension name='yb2bacceleratorstorefront' />
 <!--<extension name='kiwi' />
     <extension name='tiger'/> -->
 
