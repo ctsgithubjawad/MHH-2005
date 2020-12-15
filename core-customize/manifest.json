@@ -218,7 +218,12 @@
 		{"addon":"timedaccesspromotionengineaddon","storefront":"yb2bacceleratorstorefront","template":"yacceleratorstorefront"},
 		{"addon":"xyformssamples","storefront":"yb2bacceleratorstorefront","template":"yacceleratorstorefront"},
 		{"addon":"xyformsstorefrontcommons","storefront":"yb2bacceleratorstorefront","template":"yacceleratorstorefront"},
-		{"addon":"ysapproductconfigaddon","storefront":"yb2bacceleratorstorefront","template":"yacceleratorstorefront"}
+		{"addon":"ysapproductconfigaddon","storefront":"yb2bacceleratorstorefront","template":"yacceleratorstorefront"},
+		{
+		 "addon":"sapcoreaddon",
+		 "storefront":"yb2bacceleratorstorefront",
+		 "template":"yacceleratorstorefront"
+		}
     ],
     "aspects": [
         {
