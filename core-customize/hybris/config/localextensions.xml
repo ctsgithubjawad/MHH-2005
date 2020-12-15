@@ -262,9 +262,18 @@
 	<extension name='assistedservicewebservices' />
 	<extension name='assistedservicefacades' />
 	<extension name='assistedservicepromotionaddon' />
-
-
-
+	<extension name='sapcoreaddon' />
+	<extension name='sapcoreconfigurationbackoffice' />
+	<extension name='sapmodelbackoffice' />
+	<extension name='sapcustomerb2bbackoffice' />
+	<extension name='ysapcpiomsfulfillment' />
+	<extension name='sapcpiadapter' />
+	<extension name='sapcpicustomerexchange' />
+	<extension name='sapcpicustomerexchangeb2b' />
+	<extension name='sapcpiorderexchangeoms' />
+	<extension name='sapcpiorderexchangeomsb2b' />
+	<extension name='saporderexchangebackoffice' />
+	<extension name='sapcpiproductexchange' />
 <!-- If you want to test Cloud Hot Folders locally download the extensions from https://launchpad.support.sap.com/#/notes/2817992 and uncomment the following -->
     <!--<extension name='azurecloudhotfolder' />
     <extension name='cloudcommons' />
